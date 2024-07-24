@@ -3,8 +3,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-san16&layout=compact&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-san16&layout=compact&theme=customTheme)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-san16&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu-san16
 )](https://github.com/anuraghazra/github-readme-stats)
