@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu-san16&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=mu-san16&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
